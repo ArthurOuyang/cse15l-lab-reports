@@ -9,7 +9,7 @@ Not the same thing, because the spot assigned to different people could be diffe
 ![part 5](https://github.com/ArthurOuyang/cse15l-lab-reports/blob/main/lab1photo/part6.png)
 ##### ls-directory list files or directories in Linux and other Unix-based operating systems
   
-![part 6]([https://github.com/ArthurOuyang/cse15l-lab-reports/blob/main/lab1photo/part%206.2.png](https://github.com/ArthurOuyang/cse15l-lab-reports/blob/main/lab1photo/Screen%20Shot%202022-09-30%20at%209.11.24%20PM.png))
+![part 6]((https://github.com/ArthurOuyang/cse15l-lab-reports/blob/main/lab1photo/Screen%20Shot%202022-09-30%20at%209.11.24%20PM.png))
  #### the difference is the position, returns the position of this file in the computer
  #### It took me half a minute, if I need to write 100 times, it should take about an hour
  
